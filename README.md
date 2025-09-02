@@ -30,7 +30,7 @@ Com este sistema, buscamos:
 - Felipe Leite - Arquiteto de Software 
 - João Victor Silva - Desenvolvedor Back-End
 - Antonny Gustavo - Desenvolvedor Banco de Dados  
-- Rafael Chagas - Desenvolvedor Front-End 
+- Rafael Lucas - Desenvolvedor Front-End 
 
 ## 📅 Metodologia de Trabalho
 Estamos utilizando a **metodologia ágil Scrum**, organizando o desenvolvimento em encontros semanais.  
