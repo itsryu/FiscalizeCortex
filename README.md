@@ -25,12 +25,12 @@ Com este sistema, buscamos:
 - Alternância entre **tema claro e escuro**  
 
 ## 👥 Equipe de Desenvolvimento
-- Ingrid Bonifacio  
-- Cariny Saldanha  
-- Felipe Leite  
-- João Victor Silva
-- Antonny Gustavo   
-- Rafael Chagas  
+- Ingrid Bonifacio - Product Owner
+- Cariny Saldanha - Scrum Master 
+- Felipe Leite - Arquiteto de Software 
+- João Victor Silva - Desenvolvedor Back-End
+- Antonny Gustavo - Desenvolvedor Banco de Dados  
+- Rafael Chagas - Desenvolvedor Front-End 
 
 ## 📅 Metodologia de Trabalho
 Estamos utilizando a **metodologia ágil Scrum**, organizando o desenvolvimento em encontros semanais.  
