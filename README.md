@@ -25,10 +25,10 @@ Com este sistema, buscamos:
 - Alternância entre **tema claro e escuro**  
 
 ## 👥 Equipe de Desenvolvimento
-- Ingrid Bonifacio - Product Owner
+- Ingrid Bonifácio - Product Owner
 - Cariny Saldanha - Scrum Master 
 - Felipe Leite - Arquiteto de Software 
-- João Victor Silva - Desenvolvedor Back-End
+- João Victor - Desenvolvedor Back-End
 - Antonny Gustavo - Desenvolvedor Banco de Dados  
 - Rafael Lucas - Desenvolvedor Front-End 
 
@@ -37,4 +37,4 @@ Estamos utilizando a **metodologia ágil Scrum**, organizando o desenvolvimento 
 O projeto será finalizado até o final do semestre, contemplando todas as etapas: planejamento, desenvolvimento, testes e entrega final.  
 
 ## 🚀 Status do Projeto
-🔹 Em desenvolvimento – atualmente na fase de implementação do código base e modelagem do banco de dados.  
+🔹 Em desenvolvimento – atualmente na fase de implementação do código base e modelagem do banco de dados.
